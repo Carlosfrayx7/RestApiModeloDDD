@@ -1,0 +1,14 @@
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.deps.json
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.dll
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.pdb
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.csprojAssemblyReference.cache
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.AssemblyInfoInputs.cache
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.AssemblyInfo.cs
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.csproj.CoreCompileInputs.cache
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.csproj.CopyComplete
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.dll
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.pdb
