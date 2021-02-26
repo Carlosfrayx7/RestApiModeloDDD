@@ -6,12 +6,12 @@ namespace RestApiModeloDDD.Domain.Service
 {
     public class ServiceProduto : ServiceBase<Produto>, IServiceProduto
     {
-        private readonly IRepositoryProduto repositoryProduto;
+        private readonly IRepositoryProduto _repositoryProduto;
 
         public ServiceProduto(IRepositoryProduto repositoryProduto)
             : base(repositoryProduto)
         {
-            this.repositoryProduto = repositoryProduto;  
+            _repositoryProduto = repositoryProduto;  
         }
     }
 }

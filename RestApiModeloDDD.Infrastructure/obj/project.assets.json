@@ -162,6 +162,16 @@
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
+      "RestApiModeloDDD.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RestApiModeloDDD.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RestApiModeloDDD.Application.dll": {}
+        }
+      },
       "RestApiModeloDDD.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -544,6 +554,11 @@
         "version.txt"
       ]
     },
+    "RestApiModeloDDD.Application/1.0.0": {
+      "type": "project",
+      "path": "../RestApiModeloDDD.Application/RestApiModeloDDD.Application.csproj",
+      "msbuildProject": "../RestApiModeloDDD.Application/RestApiModeloDDD.Application.csproj"
+    },
     "RestApiModeloDDD.Domain/1.0.0": {
       "type": "project",
       "path": "../RestApiModeloDDD.Domain/RestApiModeloDDD.Domain.csproj",
@@ -558,6 +573,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.EntityFrameworkCore >= 5.0.3",
+      "RestApiModeloDDD.Application >= 1.0.0",
       "RestApiModeloDDD.Domain >= 1.0.0",
       "RestApiModeloDDD.Domain.Core >= 1.0.0"
     ]
@@ -591,6 +607,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "D:\\01_Projetos\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj": {
+              "projectPath": "D:\\01_Projetos\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj"
+            },
             "D:\\01_Projetos\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
               "projectPath": "D:\\01_Projetos\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
             },
