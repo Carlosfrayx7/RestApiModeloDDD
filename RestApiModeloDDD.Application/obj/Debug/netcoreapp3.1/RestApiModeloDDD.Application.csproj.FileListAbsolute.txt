@@ -7,3 +7,8 @@ D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreap
 D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.csproj.CoreCompileInputs.cache
 D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.dll
 D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.pdb
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+D:\01_Projetos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.csproj.CopyComplete

@@ -13,6 +13,6 @@ namespace RestApiModeloDDD.Application.Interfaces
 
         IEnumerable<ClienteDto> GetAll();
 
-        ClienteDto GetById(int id)
+        ClienteDto GetById(int id);
     }
 }

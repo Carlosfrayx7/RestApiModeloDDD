@@ -29,7 +29,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\01_Projetos\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
+                "projectPath": "D:\\01_Projetos\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
